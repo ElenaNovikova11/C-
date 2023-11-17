@@ -1,0 +1,15 @@
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\bin\Debug\net6.0\EXAMPELS001_HelloConsole.exe
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\bin\Debug\net6.0\EXAMPELS001_HelloConsole.deps.json
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\bin\Debug\net6.0\EXAMPELS001_HelloConsole.runtimeconfig.json
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\bin\Debug\net6.0\EXAMPELS001_HelloConsole.dll
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\bin\Debug\net6.0\EXAMPELS001_HelloConsole.pdb
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.csproj.AssemblyReference.cache
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.AssemblyInfoInputs.cache
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.AssemblyInfo.cs
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.csproj.CoreCompileInputs.cache
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.dll
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\refint\EXAMPELS001_HelloConsole.dll
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.pdb
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\EXAMPELS001_HelloConsole.genruntimeconfig.cache
+C:\Users\dimar\Desktop\EXAMPELS\EXAMPELS001_HelloConsole\obj\Debug\net6.0\ref\EXAMPELS001_HelloConsole.dll
